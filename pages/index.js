@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Enaily se acalma e olha meu site hospedado 😊!!!</h1>;
+  return <h1>Olha meu site hospedado rererere 😊!!!</h1>;
 }
 export default Home;
